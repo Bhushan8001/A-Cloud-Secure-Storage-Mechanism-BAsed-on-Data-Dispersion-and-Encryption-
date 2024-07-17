@@ -1,0 +1,9 @@
+Within parentheses the same hierarchy as mentioned in Figure 
+1.11 is operative. Also, if there are more than one set of 
+parentheses, the operations within the innermost parentheses 
+would be performed first, followed by the operations within 
+the second innermost pair and so on. 
+We must always remember to use pairs of parentheses. A 
+careless imbalance of the right and left parentheses is a 
+common error. Best way to avoid this error is to type ( ) and 
+then type an expression inside it.
